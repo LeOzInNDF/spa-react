@@ -1,0 +1,15 @@
+.topo_container {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  align-content: flex-end;
+  background-color: gainsboro;
+}
+
+.img_logo {
+  width: 100px;
+}
